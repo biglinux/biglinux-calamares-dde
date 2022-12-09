@@ -44,5 +44,6 @@ deepin-wallpapers
 deepin-wayland
 deepin-wm
 docparser
+lightdm
 papirus-icon-theme
 startdde
