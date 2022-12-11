@@ -21,6 +21,7 @@ deepin-dock
 deepin-editor
 deepin-file-manager
 deepin-font-manager
+deepin-grand-search
 deepin-icon-theme
 deepin-image-viewer
 deepin-kwin
