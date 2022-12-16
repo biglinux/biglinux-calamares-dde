@@ -26,6 +26,7 @@ deepin-icon-theme
 deepin-image-viewer
 deepin-kwin
 deepin-launcher
+manjaro-printer
 deepin-menu
 deepin-movie
 deepin-music
@@ -40,7 +41,6 @@ deepin-qt5integration
 deepin-qt5platform-plugins
 deepin-reader
 deepin-screen-recorder
-deepin-screensaver
 deepin-screenshot
 deepin-session-shell
 deepin-session-ui
@@ -54,6 +54,7 @@ deepin-wallpapers
 deepin-wayland
 deepin-wm
 docparser
+hplip
 libreoffice-fresh
 lightdm
 mesa-utils
