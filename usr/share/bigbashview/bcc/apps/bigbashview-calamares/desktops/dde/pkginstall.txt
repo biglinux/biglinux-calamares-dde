@@ -2,6 +2,7 @@ biglinux-neofetch
 biglinux-skel-dde
 brave-browser
 dde-device-formatter
+dde-kwin-reborn
 deepin-account-faces
 deepin-album
 deepin-anything
@@ -24,7 +25,7 @@ deepin-font-manager
 deepin-grand-search
 deepin-icon-theme
 deepin-image-viewer
-deepin-kwin
+deepin-kwin-reborn
 deepin-launcher
 manjaro-printer
 deepin-menu
@@ -51,9 +52,9 @@ deepin-terminal
 deepin-turbo
 deepin-voice-note
 deepin-wallpapers
-deepin-wayland
-deepin-wm
+deepin-wayland-protocols-reborn
 docparser
+dwayland-reborn
 hplip
 libreoffice-fresh
 lightdm
