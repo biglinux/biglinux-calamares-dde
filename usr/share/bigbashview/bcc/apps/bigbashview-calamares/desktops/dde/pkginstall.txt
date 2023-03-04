@@ -7,7 +7,7 @@ deepin-calculator
 deepin-calendar
 deepin-camera
 deepin-clipboard
-deepin-compresso
+deepin-compressor
 deepin-desktop-schemas
 deepin-diskmanager
 deepin-editor
@@ -20,7 +20,6 @@ deepin-kwin
 deepin-movie
 deepin-music
 deepin-network-utils
-deepin-ocr-git
 deepin-picker
 deepin-printer
 deepin-reader
@@ -30,7 +29,7 @@ deepin-session-ui
 deepin-system-monitor
 deepin-terminal
 deepin-voice-note
-eepin-wallpapers-plasma
+deepin-wallpapers-plasma
 deepin-wayland-protocols
 dwayland
 hplip
